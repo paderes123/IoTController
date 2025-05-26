@@ -4,10 +4,10 @@
 #include <ArduinoJson.h>
 #include "ExampleFunctions.h" // Provides the functions used in the examples.
 
-#define API_KEY "AIzaSyBluqS7p9GVlAT-ONZnggJyaUIiIAWxV24"
-#define USER_EMAIL "paderesbryan08@gmail.com"
+#define API_KEY "PAIzaSyBDFCdEFHxR3ePftX4ygDUFjCgvQb7apDQ"
+#define USER_EMAIL "jenamegonzales@gmail.com"
 #define USER_PASSWORD "12345678"
-#define DATABASE_URL "https://mobileappiotcontrollerdb-default-rtdb.asia-southeast1.firebasedatabase.app/"
+#define DATABASE_URL "https://mobileappiotcontroller-default-rtdb.asia-southeast1.firebasedatabase.app/"
 
 // for OLED
 U8G2_SH1106_128X64_NONAME_F_HW_I2C u8g2(U8G2_R0, /* reset=*/ U8X8_PIN_NONE);
